@@ -62,3 +62,6 @@ test_alignment
 /scratch.c
 /configure~
 /tests/test_pluq
+/bench/cpucycles-20060326/test
+/bench/cpucycles-20060326/cpucycles-impl.c
+/bench/cpucycles-20060326/cpucycles-impl.h
